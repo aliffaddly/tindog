@@ -199,6 +199,10 @@ h2{
     }
 
     #testimonials h2{
-        font-size: 14px;
+        
+    }
+    
+    #features p{
+        text-align: center;
     }
 }
